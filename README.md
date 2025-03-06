@@ -143,7 +143,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- **Nikhil Innovates**: [GitHub](https://github.com/NikhilInnovates) | [Email](mailto:nikhil@example.com)
+- **Nikhil Innovates**: [GitHub](https://github.com/NikhilInnovates) | [Email](mailto:panchalnikhil1710@gmail.com)
 
 ---
 
